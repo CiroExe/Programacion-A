@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="167"/>
+        <CursorPos X="10" Y="190"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="18">
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="21" Column="187" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="28" Column="27" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="53" Column="21" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="28" Column="36" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="40" Column="24" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="53" Column="39" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="77" Column="23" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="72" Column="21" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="82" Column="13" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="87" Column="113" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="96" Column="62" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="115" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="120" Column="9" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="129" Column="46" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="115" Column="18" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="154" Column="9" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="174" Column="11" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="96" Column="53" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="parcial2022PrograA.lpr"/>
+        <Caret Line="170" Column="17" TopLine="166"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
