@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\mdqci\OneDrive\Escritorio\Guia9PA\ej5\lib\x86_64-win64 -FuC:\Users\mdqci\OneDrive\Escritorio\Guia9PA\ej5\ -FUC:\Users\mdqci\OneDrive\Escritorio\Guia9PA\ej5\lib\x86_64-win64\ -FEC:\Users\mdqci\OneDrive\Escritorio\Guia9PA\ej5\ -oC:\Users\mdqci\OneDrive\Escritorio\Guia9PA\ej5\ej5.exe ej5.lpr"/>
-</CONFIG>
