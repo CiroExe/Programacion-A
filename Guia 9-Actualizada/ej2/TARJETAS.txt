@@ -1,0 +1,15 @@
+10000001 Ana Martínez                 5000   1250
+10000002 Luis Gómez                   10000  7620
+10000003 Carla Rodríguez              7500   3250
+10000004 Pablo Sánchez                3000   1580
+10000005 Marta Herrera                6000   2000
+10000006 Jorge Fernández              12000  9500
+10000007 Lucía Ramírez                4500   1230
+10000008 Manuel Torres                8000   7890
+10000009 Isabel Moreno                4000   980
+10000010 Tomás Castillo               6500   2100
+10000011 Raquel Navarro               7000   4300
+10000012 Andrés Molina                9000   7250
+10000013 Daniela Ortega               5500   3120
+10000014 Sergio Romero                11000  10000
+10000015 Patricia Lozano              5000   4999
