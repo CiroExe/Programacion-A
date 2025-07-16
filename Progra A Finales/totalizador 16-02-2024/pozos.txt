@@ -1,0 +1,11 @@
+A55 Tupungato         1200
+B14 Chubut            3000
+B74 Cacheuta          1500
+A99 Neuquen           2500
+C11 Salta             1600
+D20 Malargue          1800
+E33 Anelo             2200
+F01 RinconSauces      2100
+G77 Catriel           1300
+H90 PicoTruncado      1700
+ZZZ ZZZZZZZZZZZZ       1

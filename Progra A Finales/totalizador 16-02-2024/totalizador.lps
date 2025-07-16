@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="totalizador.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="84"/>
+        <CursorPos X="5" Y="108"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="19">
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="77" Column="27" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="83" Column="17" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="123" Column="102" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="218" Column="10" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="57" Column="12" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="75" Column="10" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="60" Column="16" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="80" Column="21" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="76" Column="12" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="94" Column="35" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="180" Column="15" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="181" Column="41" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="186" Column="143" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="195" Column="87" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="194" Column="24" TopLine="194"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="104" Column="33" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="64" Column="25" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="187" Column="142" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="151" Column="62" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="226" TopLine="195"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

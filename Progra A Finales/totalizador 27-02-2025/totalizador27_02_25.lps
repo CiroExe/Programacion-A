@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="totalizador27_02_25.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="164"/>
+        <CursorPos Y="196"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="historia.txt"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+      <Unit>
+        <Filename Value="bode.txt"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="28" Y="17"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit>
+    </Units>
+    <JumpHistory>
+      <Position>
+        <Filename Value="totalizador27_02_25.lpr"/>
+        <Caret Line="174" Column="14" TopLine="146"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

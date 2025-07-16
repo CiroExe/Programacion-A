@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="totalizador.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="25"/>
+        <CursorPos X="73" Y="42"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="45" Column="13" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="87" Column="35" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="totalizador.lpr"/>
+        <Caret Line="133" Column="10" TopLine="113"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

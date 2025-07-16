@@ -1,0 +1,16 @@
+BODEGA_LUNA             18.0    0
+BODEGA_NEVADA           0   6.1
+BODEGA_NUEVA            0   5.0
+BODEGA_SOLAR            20.4    7.1
+CANTO_DEL_VINO          17.0    6.5
+CORAZÓN_DE_TIERRA       25.0    6.1
+EL_ESCONDIDO            0   4.3
+LA_CEPA_REAL            63.0    12.8
+PUERTA_UVA              0   3.9
+TIERRA_Y_UVA            0   9.2
+VID_&_VINO              45.0    0
+VIÑA_CLÁSICA            41.5    10.4
+VIÑAS_DEL_SOL           0   8.2
+VITIS_MENDOZA           13.2    6.8
+CIELO_ABIERTO           0   4.4
+ZZZZZZZZZZZZZ            1   1  1    1
